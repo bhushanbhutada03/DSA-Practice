@@ -30,3 +30,11 @@ This folder contains my Java fundamentals and OOPS practice problems, such as:
 
 ## Goal
 To improve problem-solving skills and maintain consistency in DSA practice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0183-customers-who-never-order/) | Easy |
+<!---LeetCode Topics End-->
