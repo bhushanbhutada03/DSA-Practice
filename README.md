@@ -38,4 +38,20 @@ To improve problem-solving skills and maintain consistency in DSA practice.
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
