@@ -41,6 +41,7 @@ To improve problem-solving skills and maintain consistency in DSA practice.
 | [0183-customers-who-never-order](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [0584-find-customer-referee](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0620-not-boring-movies/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Math
