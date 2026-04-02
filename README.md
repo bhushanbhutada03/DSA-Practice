@@ -29,7 +29,7 @@ This folder contains my Java fundamentals and OOPS practice problems, such as:
 - File name = problem name  
 
 ## Goal
-To improve problem-solving skills and maintain consistency in DSA practice.
+To improve problem-solving skills and maintain consistency in DSA practice .
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
