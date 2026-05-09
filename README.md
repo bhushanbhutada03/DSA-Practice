@@ -101,6 +101,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0242-valid-anagram](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0299-bulls-and-cows/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -132,4 +133,9 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
