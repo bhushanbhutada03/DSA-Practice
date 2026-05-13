@@ -69,6 +69,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0078-subsets](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0078-subsets/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
@@ -80,6 +81,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0299-bulls-and-cows/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -88,6 +90,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0242-valid-anagram/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
