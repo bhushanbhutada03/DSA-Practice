@@ -54,6 +54,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -113,6 +114,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0242-valid-anagram](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0299-bulls-and-cows/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -152,6 +154,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0061-rotate-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
