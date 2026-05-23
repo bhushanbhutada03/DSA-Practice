@@ -126,6 +126,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
