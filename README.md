@@ -57,6 +57,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0005-longest-palindromic-substring](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
@@ -137,6 +139,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
