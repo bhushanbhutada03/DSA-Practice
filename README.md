@@ -90,6 +90,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0242-valid-anagram](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0299-bulls-and-cows/) | Medium |
 | [0409-longest-palindrome](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0409-longest-palindrome/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -120,6 +121,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0242-valid-anagram](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0299-bulls-and-cows/) | Medium |
 | [0409-longest-palindrome](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0409-longest-palindrome/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0520-detect-capital](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0709-to-lower-case/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -133,6 +135,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Simulation
