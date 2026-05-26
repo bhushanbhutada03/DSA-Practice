@@ -100,6 +100,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
