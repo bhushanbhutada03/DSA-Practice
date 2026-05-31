@@ -84,6 +84,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
+| [2126-destroying-asteroids](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -111,6 +112,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0242-valid-anagram](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2126-destroying-asteroids](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0409-longest-palindrome/) | Easy |
+| [2126-destroying-asteroids](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
