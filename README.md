@@ -86,6 +86,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
 | [2126-destroying-asteroids](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -103,6 +104,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -154,6 +156,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
