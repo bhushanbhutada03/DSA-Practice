@@ -80,6 +80,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -163,6 +164,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0999-available-captures-for-rook](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3379-transformed-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3379-transformed-array/) | Easy |
@@ -179,6 +181,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0999-available-captures-for-rook](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
