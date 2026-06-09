@@ -80,6 +80,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0997-find-the-town-judge](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -104,6 +105,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0997-find-the-town-judge](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -228,4 +230,8 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
