@@ -82,6 +82,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0643-maximum-average-subarray-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0997-find-the-town-judge](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -106,6 +107,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0997-find-the-town-judge](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0997-find-the-town-judge/) | Easy |
+| [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -120,6 +122,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2126-destroying-asteroids](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -127,6 +130,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0299-bulls-and-cows/) | Medium |
+| [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -215,6 +219,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0409-longest-palindrome/) | Easy |
+| [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
 | [2126-destroying-asteroids](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
@@ -234,4 +239,8 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0997-find-the-town-judge/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
 <!---LeetCode Topics End-->
