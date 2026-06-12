@@ -65,6 +65,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -194,6 +195,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Two Pointers
