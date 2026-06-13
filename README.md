@@ -103,6 +103,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0299-bulls-and-cows/) | Medium |
 | [0409-longest-palindrome](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0409-longest-palindrome/) | Easy |
@@ -198,6 +199,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -206,6 +208,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0061-rotate-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
