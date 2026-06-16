@@ -161,6 +161,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2938-separate-black-and-white-balls](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -179,6 +180,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3379-transformed-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3379-transformed-array/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
