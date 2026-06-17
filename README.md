@@ -202,6 +202,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -213,6 +214,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0061-rotate-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
