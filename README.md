@@ -52,6 +52,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Dynamic Programming
