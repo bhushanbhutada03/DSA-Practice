@@ -88,6 +88,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
@@ -252,6 +253,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
