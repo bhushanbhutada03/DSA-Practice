@@ -92,6 +92,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2126-destroying-asteroids](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -161,6 +162,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1189-maximum-number-of-balloons](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
