@@ -83,6 +83,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0705-design-hashset](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0705-design-hashset/) | Easy |
 | [0997-find-the-town-judge](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
@@ -114,6 +115,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0705-design-hashset](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0705-design-hashset/) | Easy |
 | [0997-find-the-town-judge](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -219,6 +221,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0141-linked-list-cycle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0705-design-hashset](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0705-design-hashset/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -279,4 +282,12 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
