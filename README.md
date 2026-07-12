@@ -88,6 +88,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0997-find-the-town-judge](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -120,6 +121,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0997-find-the-town-judge](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -136,6 +138,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0242-valid-anagram](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1054-distant-barcodes](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1054-distant-barcodes/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2126-destroying-asteroids/) | Medium |
