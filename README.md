@@ -302,4 +302,8 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0705-design-hashset/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
