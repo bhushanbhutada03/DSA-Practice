@@ -215,6 +215,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0078-subsets/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
