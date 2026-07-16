@@ -227,6 +227,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
@@ -244,6 +245,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0061-rotate-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
