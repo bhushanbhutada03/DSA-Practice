@@ -1,22 +1,22 @@
 class Solution {
     public int[] limitOccurrences(int[] nums, int k) {
-        int[] map=new int[100];
-        for(int i:nums){
-            if(map[i-1]<k){
-                map[i-1]++;
+        int[] ans = new int[nums.length];
+
+        int write = 0;
+        int count = 0;
+        int prev = -1;
+
+        for (int num : nums) {
+            if (num != prev) {
+                prev = num;
+                count = 1;
+            } else {
+                count++;
+            }
+            if (count <= k) {
+                ans[write++] = num;
             }
         }
-        int point=0;
-    
-        for(int i=0;i<100;i++){
-            if(map[i]>0){
-                while(map[i]!=0){
-                    nums[point]=i+1;
-                    point++;
-                    map[i]--;
-                }
-            }
-        }
-        return Arrays.copyOf(nums, point);
+        return Arrays.copyOf(ans, write);
     }
 }
