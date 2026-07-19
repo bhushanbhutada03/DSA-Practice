@@ -109,6 +109,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3379-transformed-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +261,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
