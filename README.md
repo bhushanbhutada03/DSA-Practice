@@ -104,6 +104,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -199,6 +200,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -273,6 +275,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -289,6 +292,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
