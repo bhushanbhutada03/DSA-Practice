@@ -108,6 +108,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3379-transformed-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -136,6 +137,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -202,6 +204,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
