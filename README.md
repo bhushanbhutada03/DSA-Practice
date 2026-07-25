@@ -55,6 +55,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -155,6 +156,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1833-maximum-ice-cream-bars](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
