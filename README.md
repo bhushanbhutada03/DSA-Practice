@@ -156,6 +156,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1833-maximum-ice-cream-bars](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -169,6 +170,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
