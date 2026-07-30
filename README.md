@@ -54,6 +54,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -195,6 +196,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -301,6 +303,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
