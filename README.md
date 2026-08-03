@@ -45,6 +45,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0620-not-boring-movies](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0620-not-boring-movies/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [3497-analyze-subscription-conversion](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3497-analyze-subscription-conversion/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
