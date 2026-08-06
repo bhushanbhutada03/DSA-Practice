@@ -116,6 +116,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3379-transformed-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
@@ -147,6 +148,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
