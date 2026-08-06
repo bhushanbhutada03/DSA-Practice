@@ -57,6 +57,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -340,6 +341,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1291-sequential-digits/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
