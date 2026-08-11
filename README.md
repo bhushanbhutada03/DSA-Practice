@@ -66,6 +66,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0118-pascals-triangle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -85,6 +86,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0078-subsets](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0078-subsets/) | Medium |
+| [0118-pascals-triangle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
