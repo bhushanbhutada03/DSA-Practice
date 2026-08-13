@@ -62,6 +62,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+| [3894-traffic-signal-color](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3894-traffic-signal-color/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3894-traffic-signal-color](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3894-traffic-signal-color/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +237,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3379-transformed-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3379-transformed-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3894-traffic-signal-color](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3894-traffic-signal-color/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
