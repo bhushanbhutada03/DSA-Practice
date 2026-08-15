@@ -50,6 +50,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0070-climbing-stairs](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -67,6 +68,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0070-climbing-stairs](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -80,6 +82,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Array
