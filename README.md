@@ -122,6 +122,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3379-transformed-array/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -154,6 +155,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Sorting
