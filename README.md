@@ -120,6 +120,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2553-separate-the-digits-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3379-transformed-array/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -239,6 +240,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2161-partition-array-according-to-given-pivot](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3379-transformed-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3379-transformed-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
