@@ -126,6 +126,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3379-transformed-array/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -245,6 +246,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3379-transformed-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3379-transformed-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3894-traffic-signal-color/) | Easy |
 ## Backtracking
@@ -330,6 +332,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1732-find-the-highest-altitude](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,4 +368,8 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
