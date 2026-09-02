@@ -64,6 +64,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3894-traffic-signal-color/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Dynamic Programming
@@ -131,6 +132,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3731-find-missing-elements](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
