@@ -133,6 +133,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -337,6 +338,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
