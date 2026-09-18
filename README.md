@@ -92,6 +92,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0078-subsets](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
@@ -139,6 +140,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0242-valid-anagram/) | Easy |
