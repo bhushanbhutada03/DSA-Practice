@@ -137,6 +137,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3875-construct-uniform-parity-array-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
+| [3978-unique-middle-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3978-unique-middle-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2833-furthest-point-from-origin](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3978-unique-middle-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3978-unique-middle-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
