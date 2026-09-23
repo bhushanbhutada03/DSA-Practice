@@ -68,6 +68,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3875-construct-uniform-parity-array-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3894-traffic-signal-color/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
+| [3959-check-good-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3959-check-good-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +261,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3894-traffic-signal-color/) | Easy |
+| [3959-check-good-integer](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3959-check-good-integer/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
