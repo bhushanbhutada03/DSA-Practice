@@ -113,6 +113,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1861-rotating-the-box](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1861-rotating-the-box/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -161,6 +162,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
@@ -216,6 +218,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [1189-maximum-number-of-balloons](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
