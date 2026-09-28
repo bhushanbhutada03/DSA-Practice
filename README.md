@@ -217,6 +217,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [0709-to-lower-case](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/0709-to-lower-case/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -322,6 +323,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Binary Search
@@ -392,4 +394,8 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
