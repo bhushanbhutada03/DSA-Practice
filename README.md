@@ -127,6 +127,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2540-minimum-common-value](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -383,6 +384,7 @@ To improve problem-solving skills and maintain consistency in DSA practice .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhushanbhutada03/DSA-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
